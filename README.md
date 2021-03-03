@@ -16,5 +16,5 @@ yarn start
 
 ```bash
 yarn build
-#The files will be in ./dist
+# The files will be in ./dist
 ```
